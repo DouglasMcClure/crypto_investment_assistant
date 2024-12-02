@@ -9,11 +9,10 @@ from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
 portfolio_manager = PortfolioManager()
 
 def generate_summary():
-    """
-    Generate a daily summary of market trends, portfolio performance, and predictions.
-    """
     # Fetch market data
     market_data = fetch_market_data()
+
+    # Analyze data
     analysis = analyze_data(market_data)
 
     # Fetch trending coins
@@ -23,14 +22,16 @@ def generate_summary():
     news = fetch_crypto_news()
 
     # Portfolio analysis
+    portfolio_manager.add_holding("XRP", 109.95790794, 1.6)
     portfolio_value = portfolio_manager.calculate_profit_loss(market_data)
 
     # Price predictions
     predicted_prices = {}
-    for coin in ["bitcoin", "ethereum"]:  # Add coins you want predictions for
-        historical_data = market_data.get(coin, {}).get("historical_data", [])
-        if historical_data:
-            predicted_prices[coin] = predict_prices(historical_data)
+    for coin in ["XRP"]:  # Add coins you want predictions for
+        real_time_prices = market_data.get(coin, {}).get("price_history", [])
+        print(f"{coin} price history: {real_time_prices}")  # Debug price history
+        if real_time_prices:
+            predicted_prices[coin] = predict_prices(real_time_prices)
 
     # Generate summary
     summary = "===== Daily Crypto Summary =====\n\n"
@@ -55,7 +56,7 @@ def generate_summary():
     # Predictions
     summary += "\nPrice Predictions:\n"
     for coin, price in predicted_prices.items():
-        summary += f"{coin.capitalize()}: Predicted Price: ${price[0][0]:.2f}\n"
+        summary += f"{coin.capitalize()}: Predicted Price: ${price[0][0]:.2f}\n" if price else f"{coin.capitalize()}: Not enough data for prediction\n"
 
     # News
     summary += "\nLatest News:\n"
@@ -64,6 +65,7 @@ def generate_summary():
 
     return summary
 
+
 def main():
     """
     Main function to run the bot and send the summary to Telegram.
@@ -71,6 +73,7 @@ def main():
     try:
         summary = generate_summary()
         send_telegram_alert(TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, summary)
+        print(summary)
     except Exception as e:
         print(f"Error: {e}")
 
