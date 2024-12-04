@@ -28,17 +28,6 @@ def generate_summary():
         top_gainers = analysis.get("top_gainers", [])
         top_losers = analysis.get("top_losers", [])
 
-    # Display top gainers and losers
-    if top_gainers or top_losers:
-        print("Top Gainers:")
-        for gainer in top_gainers:
-            print(f"{gainer['id']} - ${gainer['current_price']} | {gainer['price_change_percentage_24h']:.2f}%")
-
-        print("\nTop Losers:")
-        for loser in top_losers:
-            print(f"{loser['id']} - ${loser['current_price']} | {loser['price_change_percentage_24h']:.2f}%")
-    else:
-        print("No gainers or losers to display.")
 
     # Fetch trending coins
     try:
@@ -101,7 +90,7 @@ def generate_summary():
     summary += f"\nPortfolio Value: ${portfolio_value:.2f}\nTotal Profit: ${portfolio_profit:.2f}\n\n"
     summary += "\nEarnings by Coin:\n"
     for coin, report in earnings_report.items():
-        summary += f"{coin.capitalize()}: Value: ${report['current_value']:.2f}, Investment: ${report['investment']:.2f}, Profit: ${report['profit']:.2f}\n"
+        summary += f"{coin.capitalize()}: Current Price: ${report['current_price']:.2f}, Value: ${report['current_value']:.2f}, Investment: ${report['investment']:.2f}, Profit: ${report['profit']:.2f}\n"
 
     # Recommendations
     summary += "\nRecommendations:\n" + "\n".join(recommendations) + "\n"
@@ -138,9 +127,9 @@ def generate_summary():
         ]
 
         if not articles_found:
-            summary += f"No news found for {coin.upper()}.\n\n"
+            summary += f"\nNo news found for {coin.upper()}.\n"
         else:
-            summary += f"News for {coin.upper()}:\n"
+            summary += f"\nNews for {coin.upper()}:\n"
             for article in articles_found:
                 title = article.get("title", "").strip()
                 link = article.get("link", "#")

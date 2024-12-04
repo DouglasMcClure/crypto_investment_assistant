@@ -48,6 +48,7 @@ class PortfolioManager:
         """
         Calculate the total portfolio value, total investment, and earnings for each holding.
         """
+        current_price = 0
         total_value = 0
         total_investment = 0
         earnings_report = {}
@@ -64,6 +65,7 @@ class PortfolioManager:
                 total_value += coin_value
                 total_investment += coin_investment
                 earnings_report[coin] = {
+                    "current_price": current_price,
                     "current_value": coin_value,
                     "investment": coin_investment,
                     "profit": coin_profit
