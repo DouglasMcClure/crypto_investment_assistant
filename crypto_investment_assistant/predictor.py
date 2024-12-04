@@ -1,23 +1,30 @@
-from sklearn.linear_model import LinearRegression
-import numpy as np
+from prophet import Prophet
+import pandas as pd
 
-def predict_prices(real_time_prices):
+def predict_prices(historical_prices):
     """
-    Predict the next price using a simple linear regression model with real-time data.
+    Predict the next price using Prophet.
+    :param historical_prices: DataFrame with 'timestamp' and 'close' columns.
     """
-    if len(real_time_prices) < 5:  # Ensure enough data for predictions
+    try:
+        # Validate that required columns exist
+        if "timestamp" not in historical_prices.columns or "close" not in historical_prices.columns:
+            raise ValueError("Historical prices DataFrame must contain 'timestamp' and 'close' columns.")
+
+        # Ensure timestamps are in correct format
+        historical_prices["timestamp"] = pd.to_datetime(historical_prices["timestamp"], errors="coerce")
+        historical_prices = historical_prices.dropna(subset=["timestamp"])  # Drop rows with invalid timestamps
+
+        # Prepare data for Prophet
+        df = historical_prices.rename(columns={"timestamp": "ds", "close": "y"})
+        df = df[["ds", "y"]].sort_values("ds")
+
+        # Fit and predict using Prophet
+        model = Prophet()
+        model.fit(df)
+        future = model.make_future_dataframe(periods=1)
+        forecast = model.predict(future)
+        return forecast.iloc[-1]["yhat"]
+    except Exception as e:
+        print(f"Error in predict_prices: {e}")
         return None
-
-    # Prepare the training data
-    X = np.arange(len(real_time_prices)).reshape(-1, 1)
-    y = np.array(real_time_prices).reshape(-1, 1)
-
-    # Fit a simple linear regression model
-    model = LinearRegression()
-    model.fit(X, y)
-
-    # Predict the next price
-    next_day = np.array([[len(real_time_prices)]])  # The next time step
-    predicted_price = model.predict(next_day)
-
-    return predicted_price
