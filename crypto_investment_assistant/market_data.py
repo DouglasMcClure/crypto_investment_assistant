@@ -7,36 +7,41 @@ def fetch_market_data():
     """
     Fetches market data for the top 100 cryptocurrencies by market cap.
     """
-    url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false"
+    url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=24&locale=en&precision=full"
 
-    response = requests.get(url, headers=headers)
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        data = response.json()
 
-    # Check for successful response
-    if response.status_code != 200:
-        print(f"Error: API returned status code {response.status_code}")
-        print(response.json())
-        return pd.DataFrame()  # Return an empty DataFrame
+        # Convert response to DataFrame
+        df = pd.DataFrame(data)
 
-    data = response.json()
-    df = pd.DataFrame(data)
+        # Ensure required columns are present
+        required_columns = ["id", "symbol", "current_price", "market_cap", "price_change_percentage_24h"]
+        if any(col not in df.columns for col in required_columns):
+            print("Error: API response missing required columns.")
+            return pd.DataFrame()
 
-    # Ensure required columns are present
-    required_columns = ["id", "symbol", "current_price", "market_cap", "price_change_percentage_24h"]
-    missing_columns = [col for col in required_columns if col not in df.columns]
-    if missing_columns:
-        print(f"Missing columns: {missing_columns}")
-        return pd.DataFrame()  # Return an empty DataFrame
+        return df[required_columns]
 
-    return df[required_columns]
+    except Exception as e:
+        print(f"Error fetching market data: {e}")
+        return pd.DataFrame()
 
-def analyze_data(df):
+def analyze_data(market_data):
     """
     Analyzes the DataFrame to find the top gainers and losers.
     """
-    top_gainers = df.nlargest(5, "price_change_percentage_24h")
-    top_losers = df.nsmallest(5, "price_change_percentage_24h")
+    if market_data.empty:
+        print("Market data is empty. Cannot analyze top gainers or losers.")
+        return {"top_gainers": [], "top_losers": []}
 
-    return {
-        "top_gainers": top_gainers[["id", "current_price", "price_change_percentage_24h"]].to_dict(orient="records"),
-        "top_losers": top_losers[["id", "current_price", "price_change_percentage_24h"]].to_dict(orient="records")
-    }
+    try:
+        # Find top gainers and losers
+        top_gainers = market_data.nlargest(5, "price_change_percentage_24h").to_dict(orient="records")
+        top_losers = market_data.nsmallest(5, "price_change_percentage_24h").to_dict(orient="records")
+        return {"top_gainers": top_gainers, "top_losers": top_losers}
+    except Exception as e:
+        print(f"Error analyzing market data: {e}")
+        return {"top_gainers": [], "top_losers": []}
