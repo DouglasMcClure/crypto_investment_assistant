@@ -1,4 +1,5 @@
 import requests
+from config import headers
 
 class PortfolioManager:
     def __init__(self):
@@ -28,10 +29,6 @@ class PortfolioManager:
 
         coin_ids = ",".join(self.holdings.keys())
         url = f"https://api.coingecko.com/api/v3/simple/price?ids={coin_ids}&vs_currencies=usd"
-        headers = {
-            "accept": "application/json",
-            "x-cg-demo-api-key": "CG-ox3aZDyf2EQVJp12UswYZ48s"
-        }
 
         response = requests.get(url, headers=headers)
         if response.status_code != 200:

@@ -1,7 +1,4 @@
 # market_data.py
-import requests
-import pandas as pd
-from config import headers
 import io
 import requests
 import pandas as pd

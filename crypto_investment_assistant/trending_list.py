@@ -1,14 +1,12 @@
 import requests
+from config import headers
 
 def fetch_trending_list():
     """
     Fetches the trending cryptocurrency list from CoinGecko.
     """
     url = "https://api.coingecko.com/api/v3/search/trending"
-    headers = {
-        "accept": "application/json",
-        "x-cg-demo-api-key": "CG-ox3aZDyf2EQVJp12UswYZ48s"  # Replace if using your actual API key
-    }
+
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()

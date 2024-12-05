@@ -1285,3 +1285,517 @@ Cardano: Blockchain for a Decentralised and Inclusive Future - https://cryptopan
 Ethereum (ETH) Breaks the $3,800 Price Level - https://cryptopanic.com/news/20364682/Ethereum-ETH-Breaks-the-3800-Price-Level
 JUST IN: 🇷🇺 President Putin says, “#Bitcoin, Digital Assets will continue to develop.” - https://cryptopanic.com/news/20364368/JUST-IN-President-Putin-says-Bitcoin-Digital-Assets-will-continue-to-develop
 Ripple’s RLUSD Stablecoin Set to Launch Today, What’s Next for XRP? - https://cryptopanic.com/news/20364246/Ripples-RLUSD-Stablecoin-Set-to-Launch-Today-Whats-Next-for-XRP
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Fetched historical prices for ripple: 31 records retrieved.
+Predicted price: 2.399804630378383
+Error fetching historical prices for bitcoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ethereum: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ethereum/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for tether: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/tether/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ripple: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ripple/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for solana: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/solana/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for binancecoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/binancecoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for dogecoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/dogecoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for cardano: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/cardano/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for usd-coin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/usd-coin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for staked-ether: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/staked-ether/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for tron: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/tron/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for avalanche-2: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/avalanche-2/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for shiba-inu: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/shiba-inu/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for the-open-network: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/the-open-network/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for wrapped-steth: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/wrapped-steth/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for polkadot: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/polkadot/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for chainlink: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/chainlink/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for stellar: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/stellar/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for wrapped-bitcoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/wrapped-bitcoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for bitcoin-cash: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin-cash/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for sui: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/sui/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for hedera-hashgraph: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/hedera-hashgraph/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for weth: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/weth/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for litecoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/litecoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for uniswap: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/uniswap/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for near: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/near/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for pepe: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/pepe/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for leo-token: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/leo-token/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for wrapped-eeth: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/wrapped-eeth/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for aptos: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/aptos/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for internet-computer: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/internet-computer/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for polygon-ecosystem-token: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/polygon-ecosystem-token/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for vechain: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/vechain/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for crypto-com-chain: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/crypto-com-chain/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ethereum-classic: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ethereum-classic/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for render-token: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/render-token/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for usds: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/usds/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for bittensor: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bittensor/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for fetch-ai: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/fetch-ai/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for filecoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/filecoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ethena-usde: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ethena-usde/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for arbitrum: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/arbitrum/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for blockstack: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/blockstack/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for eigenlayer: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/eigenlayer/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for kaspa: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/kaspa/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for algorand: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/algorand/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for hyperliquid: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/hyperliquid/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for cosmos: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/cosmos/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for mantra-dao: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/mantra-dao/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for aave: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/aave/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for monero: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/monero/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for celestia: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/celestia/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for dai: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/dai/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for immutable-x: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/immutable-x/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for okb: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/okb/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for mantle: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/mantle/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for fantom: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/fantom/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for whitebit: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/whitebit/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for dogwifcoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/dogwifcoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for optimism: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/optimism/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for bonk: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bonk/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for the-graph: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/the-graph/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for injective-protocol: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/injective-protocol/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for theta-token: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/theta-token/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for sei-network: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/sei-network/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ethena: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ethena/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ondo-finance: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ondo-finance/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for bitget-token: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitget-token/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for thorchain: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/thorchain/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for worldcoin-wld: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/worldcoin-wld/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for gala: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/gala/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for binance-peg-weth: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/binance-peg-weth/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for floki: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/floki/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for quant-network: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/quant-network/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for the-sandbox: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/the-sandbox/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for jasmycoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/jasmycoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for coinbase-wrapped-btc: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/coinbase-wrapped-btc/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for based-brett: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/based-brett/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for eos: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/eos/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for maker: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/maker/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for rocket-pool-eth: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/rocket-pool-eth/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for kaia: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/kaia/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for pyth-network: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/pyth-network/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for lido-dao: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/lido-dao/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for flow: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/flow/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for first-digital-usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/first-digital-usd/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for mantle-staked-ether: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/mantle-staked-ether/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for jupiter-exchange-solana: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/jupiter-exchange-solana/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for beam-2: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/beam-2/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for arweave: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/arweave/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for stau: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/stau/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for flare-networks: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/flare-networks/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for tezos: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/tezos/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for iota: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/iota/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for kelp-dao-restaked-eth: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/kelp-dao-restaked-eth/market_chart?vs_currency=usd&days=30&interval=daily
+Processing batch: 1
+Processing coin: bitcoin
+Insufficient historical data for bitcoin. Skipping.
+Processing coin: ethereum
+Insufficient historical data for ethereum. Skipping.
+Processing coin: tether
+Insufficient historical data for tether. Skipping.
+Processing coin: ripple
+Insufficient historical data for ripple. Skipping.
+Processing coin: solana
+Insufficient historical data for solana. Skipping.
+Processing coin: binancecoin
+Insufficient historical data for binancecoin. Skipping.
+Processing coin: dogecoin
+Insufficient historical data for dogecoin. Skipping.
+Processing coin: cardano
+Insufficient historical data for cardano. Skipping.
+Processing coin: usd-coin
+Insufficient historical data for usd-coin. Skipping.
+Processing coin: staked-ether
+Insufficient historical data for staked-ether. Skipping.
+Processing batch: 2
+Processing coin: tron
+Insufficient historical data for tron. Skipping.
+Processing coin: avalanche-2
+Insufficient historical data for avalanche-2. Skipping.
+Processing coin: shiba-inu
+Insufficient historical data for shiba-inu. Skipping.
+Processing coin: the-open-network
+Insufficient historical data for the-open-network. Skipping.
+Processing coin: wrapped-steth
+Insufficient historical data for wrapped-steth. Skipping.
+Processing coin: polkadot
+Insufficient historical data for polkadot. Skipping.
+Processing coin: chainlink
+Insufficient historical data for chainlink. Skipping.
+Processing coin: stellar
+Insufficient historical data for stellar. Skipping.
+Processing coin: wrapped-bitcoin
+Insufficient historical data for wrapped-bitcoin. Skipping.
+Processing coin: bitcoin-cash
+Insufficient historical data for bitcoin-cash. Skipping.
+Processing batch: 3
+Processing coin: sui
+Insufficient historical data for sui. Skipping.
+Processing coin: hedera-hashgraph
+Insufficient historical data for hedera-hashgraph. Skipping.
+Processing coin: weth
+Insufficient historical data for weth. Skipping.
+Processing coin: litecoin
+Insufficient historical data for litecoin. Skipping.
+Processing coin: uniswap
+Insufficient historical data for uniswap. Skipping.
+Processing coin: near
+Insufficient historical data for near. Skipping.
+Processing coin: pepe
+Insufficient historical data for pepe. Skipping.
+Processing coin: leo-token
+Insufficient historical data for leo-token. Skipping.
+Processing coin: wrapped-eeth
+Insufficient historical data for wrapped-eeth. Skipping.
+Processing coin: aptos
+Insufficient historical data for aptos. Skipping.
+Processing batch: 4
+Processing coin: internet-computer
+Insufficient historical data for internet-computer. Skipping.
+Processing coin: polygon-ecosystem-token
+Insufficient historical data for polygon-ecosystem-token. Skipping.
+Processing coin: vechain
+Insufficient historical data for vechain. Skipping.
+Processing coin: crypto-com-chain
+Insufficient historical data for crypto-com-chain. Skipping.
+Processing coin: ethereum-classic
+Insufficient historical data for ethereum-classic. Skipping.
+Processing coin: render-token
+Insufficient historical data for render-token. Skipping.
+Processing coin: usds
+Insufficient historical data for usds. Skipping.
+Processing coin: bittensor
+Insufficient historical data for bittensor. Skipping.
+Processing coin: fetch-ai
+Insufficient historical data for fetch-ai. Skipping.
+Processing coin: filecoin
+Insufficient historical data for filecoin. Skipping.
+Processing batch: 5
+Processing coin: ethena-usde
+Insufficient historical data for ethena-usde. Skipping.
+Processing coin: arbitrum
+Insufficient historical data for arbitrum. Skipping.
+Processing coin: blockstack
+Insufficient historical data for blockstack. Skipping.
+Processing coin: eigenlayer
+Insufficient historical data for eigenlayer. Skipping.
+Processing coin: kaspa
+Insufficient historical data for kaspa. Skipping.
+Processing coin: algorand
+Insufficient historical data for algorand. Skipping.
+Processing coin: hyperliquid
+Insufficient historical data for hyperliquid. Skipping.
+Processing coin: cosmos
+Insufficient historical data for cosmos. Skipping.
+Processing coin: mantra-dao
+Insufficient historical data for mantra-dao. Skipping.
+Processing coin: aave
+Insufficient historical data for aave. Skipping.
+Processing batch: 6
+Processing coin: monero
+Insufficient historical data for monero. Skipping.
+Processing coin: celestia
+Insufficient historical data for celestia. Skipping.
+Processing coin: dai
+Insufficient historical data for dai. Skipping.
+Processing coin: immutable-x
+Insufficient historical data for immutable-x. Skipping.
+Processing coin: okb
+Insufficient historical data for okb. Skipping.
+Processing coin: mantle
+Insufficient historical data for mantle. Skipping.
+Processing coin: fantom
+Insufficient historical data for fantom. Skipping.
+Processing coin: whitebit
+Insufficient historical data for whitebit. Skipping.
+Processing coin: dogwifcoin
+Insufficient historical data for dogwifcoin. Skipping.
+Processing coin: optimism
+Insufficient historical data for optimism. Skipping.
+Processing batch: 7
+Processing coin: bonk
+Insufficient historical data for bonk. Skipping.
+Processing coin: the-graph
+Insufficient historical data for the-graph. Skipping.
+Processing coin: injective-protocol
+Insufficient historical data for injective-protocol. Skipping.
+Processing coin: theta-token
+Insufficient historical data for theta-token. Skipping.
+Processing coin: sei-network
+Insufficient historical data for sei-network. Skipping.
+Processing coin: ethena
+Insufficient historical data for ethena. Skipping.
+Processing coin: ondo-finance
+Insufficient historical data for ondo-finance. Skipping.
+Processing coin: bitget-token
+Insufficient historical data for bitget-token. Skipping.
+Processing coin: thorchain
+Insufficient historical data for thorchain. Skipping.
+Processing coin: worldcoin-wld
+Insufficient historical data for worldcoin-wld. Skipping.
+Processing batch: 8
+Processing coin: gala
+Insufficient historical data for gala. Skipping.
+Processing coin: binance-peg-weth
+Insufficient historical data for binance-peg-weth. Skipping.
+Processing coin: floki
+Insufficient historical data for floki. Skipping.
+Processing coin: quant-network
+Insufficient historical data for quant-network. Skipping.
+Processing coin: the-sandbox
+Insufficient historical data for the-sandbox. Skipping.
+Processing coin: jasmycoin
+Insufficient historical data for jasmycoin. Skipping.
+Processing coin: coinbase-wrapped-btc
+Insufficient historical data for coinbase-wrapped-btc. Skipping.
+Processing coin: based-brett
+Insufficient historical data for based-brett. Skipping.
+Processing coin: eos
+Insufficient historical data for eos. Skipping.
+Processing coin: maker
+Insufficient historical data for maker. Skipping.
+Processing batch: 9
+Processing coin: rocket-pool-eth
+Insufficient historical data for rocket-pool-eth. Skipping.
+Processing coin: kaia
+Insufficient historical data for kaia. Skipping.
+Processing coin: pyth-network
+Insufficient historical data for pyth-network. Skipping.
+Processing coin: lido-dao
+Insufficient historical data for lido-dao. Skipping.
+Processing coin: flow
+Insufficient historical data for flow. Skipping.
+Processing coin: first-digital-usd
+Insufficient historical data for first-digital-usd. Skipping.
+Processing coin: mantle-staked-ether
+Insufficient historical data for mantle-staked-ether. Skipping.
+Processing coin: jupiter-exchange-solana
+Insufficient historical data for jupiter-exchange-solana. Skipping.
+Processing coin: beam-2
+Insufficient historical data for beam-2. Skipping.
+Processing coin: arweave
+Insufficient historical data for arweave. Skipping.
+Processing batch: 10
+Processing coin: stau
+Insufficient historical data for stau. Skipping.
+Processing coin: flare-networks
+Insufficient historical data for flare-networks. Skipping.
+Processing coin: tezos
+Insufficient historical data for tezos. Skipping.
+Processing coin: iota
+Insufficient historical data for iota. Skipping.
+Processing coin: kelp-dao-restaked-eth
+Insufficient historical data for kelp-dao-restaked-eth. Skipping.
+Processing coin: bitcoin-cash-sv
+Error fetching historical prices for bitcoin-cash-sv: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin-cash-sv/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for virtual-protocol: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/virtual-protocol/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for kucoin-shares: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/kucoin-shares/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for starknet: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/starknet/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for gatechain-token: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/gatechain-token/market_chart?vs_currency=usd&days=30&interval=daily
+Insufficient historical data for bitcoin-cash-sv. Skipping.
+Processing coin: virtual-protocol
+Insufficient historical data for virtual-protocol. Skipping.
+Processing coin: kucoin-shares
+Insufficient historical data for kucoin-shares. Skipping.
+Processing coin: starknet
+Insufficient historical data for starknet. Skipping.
+Processing coin: gatechain-token
+Insufficient historical data for gatechain-token. Skipping.
+Generated 0 profitable and safe coin recommendations.
+______Beginning Crypto Summary Generation______
+
+===== Daily Crypto Summary =====
+
+
+===== Top Gainers (24h) =====
+render-token - $10.588877919260245 | +20.05%
+the-sandbox - $0.8766855361382152 | +13.56%
+ethena - $0.909295225606498 | +12.14%
+gala - $0.057914904790740206 | +11.80%
+blockstack - $2.8611188326135273 | +10.64%
+
+===== Top Losers (24h): =====
+iota - $0.47495631393974486 | -16.89%
+tron - $0.327401782349778 | -13.58%
+eos - $1.3222908804379176 | -11.75%
+virtual-protocol - $1.6178408146987395 | -10.86%
+ripple - $2.3113492803531566 | -9.37%
+
+===== Trending Coins: =====
+Bitcoin (BTC) - Market Cap Rank: 1
+Mode (MODE) - Market Cap Rank: 562
+Sui (SUI) - Market Cap Rank: 21
+XRP (XRP) - Market Cap Rank: 4
+Hyperliquid (HYPE) - Market Cap Rank: 47
+Render (RENDER) - Market Cap Rank: 37
+Solana (SOL) - Market Cap Rank: 5
+Gigachad (GIGA) - Market Cap Rank: 239
+Ondo (ONDO) - Market Cap Rank: 67
+Virtuals Protocol (VIRTUAL) - Market Cap Rank: 97
+Ethereum (ETH) - Market Cap Rank: 2
+Stacks (STX) - Market Cap Rank: 43
+Pepe (PEPE) - Market Cap Rank: 27
+Hedera (HBAR) - Market Cap Rank: 22
+Dogecoin (DOGE) - Market Cap Rank: 7
+
+===== Portfolio Report =====
+
+Portfolio Value: $257.30
+Total Profit: $107.60
+
+
+Earnings by Coin:
+Ripple: Current Price: $2.34, Value: $257.30, Investment: $149.70, Profit: $107.60
+
+Recommendations:
+Ripple: Hold - Neutral market
+
+Predictions:
+Ripple: Predicted Price $2.399804630378383
+
+===== Profitable Coins Suggestions =====
+No profitable and safe coins found.
+
+===== Top Crypto News =====
+Bitcoin Officially Hits $100,000 For The First Time Ever - https://cryptopanic.com/news/20366624/Bitcoin-Officially-Hits-100000-For-The-First-Time-Ever
+Michael Saylor gives a #Bitcoin masterclass on Fox Business. 
+
+The mainstream is coming… - https://cryptopanic.com/news/20366028/Michael-Saylor-gives-a-Bitcoin-masterclass-on-Fox-Business-The-mainstream-is-coming
+Fed Chair Powell says bitcoin is like digital gold - https://cryptopanic.com/news/20365800/Fed-Chair-Powell-says-bitcoin-is-like-digital-gold
+Cardano introduces plan 529 ahead of Plomin hard fork upgrade - https://cryptopanic.com/news/20365793/Cardano-introduces-plan-529-ahead-of-Plomin-hard-fork-upgrade
+Fed Chair Powell calls Bitcoin a competitor to gold, not the US dollar - https://cryptopanic.com/news/20365722/Fed-Chair-Powell-calls-Bitcoin-a-competitor-to-gold-not-the-US-dollar
+Cardano: Blockchain for a Decentralised and Inclusive Future - https://cryptopanic.com/news/20365577/Cardano-Blockchain-for-a-Decentralised-and-Inclusive-Future
+'Who's Laughing Now?' NYC Mayor Eric Adams Boasts About Bitcoin Paychecks - https://cryptopanic.com/news/20365482/Whos-Laughing-Now-NYC-Mayor-Eric-Adams-Boasts-About-Bitcoin-Paychecks
+Ethereum (ETH) Breaks the $3,800 Price Level - https://cryptopanic.com/news/20364682/Ethereum-ETH-Breaks-the-3800-Price-Level
+JUST IN: 🇷🇺 President Putin says, “#Bitcoin, Digital Assets will continue to develop.” - https://cryptopanic.com/news/20364368/JUST-IN-President-Putin-says-Bitcoin-Digital-Assets-will-continue-to-develop
+Ripple’s RLUSD Stablecoin Set to Launch Today, What’s Next for XRP? - https://cryptopanic.com/news/20364246/Ripples-RLUSD-Stablecoin-Set-to-Launch-Today-Whats-Next-for-XRP
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Fetched historical prices for ripple: 31 records retrieved.
+Predicted price: 2.399804630378383
+Error fetching historical prices for bitcoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ethereum: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ethereum/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for tether: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/tether/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for ripple: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ripple/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for solana: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/solana/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for binancecoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/binancecoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for dogecoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/dogecoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for cardano: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/cardano/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for usd-coin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/usd-coin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for staked-ether: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/staked-ether/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for tron: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/tron/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for avalanche-2: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/avalanche-2/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for shiba-inu: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/shiba-inu/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for the-open-network: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/the-open-network/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for wrapped-steth: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/wrapped-steth/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for polkadot: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/polkadot/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for chainlink: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/chainlink/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for stellar: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/stellar/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for wrapped-bitcoin: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/wrapped-bitcoin/market_chart?vs_currency=usd&days=30&interval=daily
+Error fetching historical prices for bitcoin-cash: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin-cash/market_chart?vs_currency=usd&days=30&interval=daily
+Processing batch: 1
+Processing coin: bitcoin
+Insufficient historical data for bitcoin. Skipping.
+Processing coin: ethereum
+Insufficient historical data for ethereum. Skipping.
+Processing coin: tether
+Insufficient historical data for tether. Skipping.
+Processing coin: ripple
+Insufficient historical data for ripple. Skipping.
+Processing coin: solana
+Insufficient historical data for solana. Skipping.
+Processing coin: binancecoin
+Insufficient historical data for binancecoin. Skipping.
+Processing coin: dogecoin
+Insufficient historical data for dogecoin. Skipping.
+Processing coin: cardano
+Insufficient historical data for cardano. Skipping.
+Processing coin: usd-coin
+Insufficient historical data for usd-coin. Skipping.
+Processing coin: staked-ether
+Insufficient historical data for staked-ether. Skipping.
+Processing batch: 2
+Processing coin: tron
+Insufficient historical data for tron. Skipping.
+Processing coin: avalanche-2
+Insufficient historical data for avalanche-2. Skipping.
+Processing coin: shiba-inu
+Insufficient historical data for shiba-inu. Skipping.
+Processing coin: the-open-network
+Insufficient historical data for the-open-network. Skipping.
+Processing coin: wrapped-steth
+Insufficient historical data for wrapped-steth. Skipping.
+Processing coin: polkadot
+Insufficient historical data for polkadot. Skipping.
+Processing coin: chainlink
+Insufficient historical data for chainlink. Skipping.
+Processing coin: stellar
+Insufficient historical data for stellar. Skipping.
+Processing coin: wrapped-bitcoin
+Insufficient historical data for wrapped-bitcoin. Skipping.
+Processing coin: bitcoin-cash
+Insufficient historical data for bitcoin-cash. Skipping.
+______Beginning Crypto Summary Generation______
+
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Fetched historical prices for ripple: 31 records retrieved.
+Predicted price: 2.309480860640514
+Fetched historical prices for bitcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 102372.7443670365
+Fetched historical prices for ethereum: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3858.2309854279256
+Fetched historical prices for tether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Processing batch: 1
+Processing coin: bitcoin
+Profit Potential: -769.3581653933797, Recommendation: Hold - Neutral market
+Coin: bitcoin excluded. Profit Potential: -769.3581653933797, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethereum
+Profit Potential: 21.504083804317816, Recommendation: Hold - Neutral market
+Coin: ethereum excluded. Profit Potential: 21.504083804317816, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: tether
+______Beginning Crypto Summary Generation______
+
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Fetched historical prices for ripple: 31 records retrieved.
+Predicted price: 2.309480860640514
+Fetched historical prices for bitcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 102372.7443670365
+Fetched historical prices for ethereum: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3858.2309854279256
+Processing batch: 1
+Processing coin: bitcoin
+Profit Potential: -769.3581653933797, Recommendation: Hold - Neutral market
+Coin: bitcoin excluded. Profit Potential: -769.3581653933797, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethereum
+Profit Potential: 21.504083804317816, Recommendation: Hold - Neutral market
+Coin: ethereum excluded. Profit Potential: 21.504083804317816, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: tether
+______Beginning Crypto Summary Generation______
+
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Fetched historical prices for ripple: 31 records retrieved.
+Predicted price: 2.309480860640514
+Fetched historical prices for bitcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 102372.7443670365
+Fetched historical prices for ethereum: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3858.2309854279256
+Fetched historical prices for tether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Processing batch: 1
+Processing coin: bitcoin
+Profit Potential: -769.3581653933797, Recommendation: Hold - Neutral market
+Coin: bitcoin excluded. Profit Potential: -769.3581653933797, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethereum
+Profit Potential: 21.504083804317816, Recommendation: Hold - Neutral market
+Coin: ethereum excluded. Profit Potential: 21.504083804317816, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: tether
+______Beginning Crypto Summary Generation______
+

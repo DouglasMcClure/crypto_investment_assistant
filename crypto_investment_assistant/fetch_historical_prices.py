@@ -1,15 +1,12 @@
 import pandas as pd
 import requests
 import io
+from config import headers
 
 log_file = "crypto_logs.txt"
 
 def fetch_historical_prices(coin_id, days=30):
     url = f"https://api.coingecko.com/api/v3/coins/{coin_id}/market_chart?vs_currency=usd&days={days}&interval=daily"
-    headers = {
-        "accept": "application/json",
-        "x-cg-demo-api-key": "CG-ox3aZDyf2EQVJp12UswYZ48s"
-    }
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()

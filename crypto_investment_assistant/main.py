@@ -18,7 +18,6 @@ import io
 
 portfolio_manager = PortfolioManager()
 
-
 def generate_summary():
     log_file = "crypto_logs.txt"
 

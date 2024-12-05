@@ -1,11 +1,12 @@
 import requests
+from config import CRYPTO_PANIC_API_KEY
 
 def fetch_top_crypto_news():
     """
     Fetches cryptocurrency news from CryptoPanic API.
     """
     # API endpoint
-    url = "https://cryptopanic.com/api/v1/posts/?auth_token=6e3eba4a60dbef8cc0b4424040a921a2a9c0d23e&filter=hot&regions=en&kind=news"
+    url = f"https://cryptopanic.com/api/v1/posts/?auth_token={CRYPTO_PANIC_API_KEY}&filter=hot&regions=en&kind=news"
 
     try:
         response = requests.get(url)
@@ -36,7 +37,7 @@ def fetch_crypto_news():
     Fetches cryptocurrency news from CryptoPanic API.
     """
     # API endpoint
-    url = "https://cryptopanic.com/api/v1/posts/?auth_token=6e3eba4a60dbef8cc0b4424040a921a2a9c0d23e&filter=hot&regions=en&kind=news"
+    url = f"https://cryptopanic.com/api/v1/posts/?auth_token={CRYPTO_PANIC_API_KEY}&filter=hot&regions=en&kind=news"
 
     try:
         response = requests.get(url)
