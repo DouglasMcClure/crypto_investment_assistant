@@ -106,7 +106,7 @@ def generate_summary():
             summary += f"{coin.capitalize()}: Predicted Price ${prediction}\n"
 
         # Suggest profitable coins
-        summary += "\n===== Profitable Coins Suggestions =====\n"
+        summary += "\n===== Profitable Coins =====\n"
         profitable_coins = suggest_profitable_coins()
 
         if not profitable_coins:

@@ -9,3 +9,4 @@ textblob
 prophet
 matplotlib
 asyncio
+python-dotenv
