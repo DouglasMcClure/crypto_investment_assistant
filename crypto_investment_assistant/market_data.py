@@ -2,11 +2,14 @@
 import requests
 import pandas as pd
 from config import headers
+import io
+import requests
+import pandas as pd
+from config import headers
+
+log_file = "crypto_logs.txt"
 
 def fetch_market_data():
-    """
-    Fetches market data for the top 100 cryptocurrencies by market cap.
-    """
     url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=24&locale=en&precision=full"
 
     try:
@@ -14,21 +17,19 @@ def fetch_market_data():
         response.raise_for_status()
         data = response.json()
 
-        # Convert response to DataFrame
         df = pd.DataFrame(data)
-
-        # Ensure required columns are present
         required_columns = ["id", "symbol", "current_price", "market_cap", "price_change_percentage_24h"]
         if any(col not in df.columns for col in required_columns):
-            print("Error: API response missing required columns.")
+            with io.open(log_file, "a", encoding="utf-8") as log:
+                log.write("API response missing required columns.\n")
             return pd.DataFrame()
 
         return df[required_columns]
 
     except Exception as e:
-        print(f"Error fetching market data: {e}")
+        with io.open(log_file, "a", encoding="utf-8") as log:
+            log.write(f"Error fetching market data: {e}\n")
         return pd.DataFrame()
-
 def analyze_data(market_data):
     """
     Analyzes the DataFrame to find the top gainers and losers.

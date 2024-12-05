@@ -1,0 +1,1287 @@
+______Beginning Crypto Summary Generation______
+
+trieved.
+Recommendation based on latest data: Hold - Neutral market
+Fetched historical prices for ripple: 31 records retrieved.
+Predicted price: 2.3980082267023155
+Fetched historical prices for bitcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 101306.11205803929
+Fetched historical prices for ethereum: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3892.589362521242
+Fetched historical prices for tether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0028583510057474
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.3943630984803677
+Fetched historical prices for solana: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 237.18143299653485
+Fetched historical prices for binancecoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 724.2433970691718
+Fetched historical prices for dogecoin: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 0.4372696764990769
+Fetched historical prices for cardano: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.2061580652008006
+Fetched historical prices for usd-coin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0106751509922476
+Fetched historical prices for staked-ether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3895.4407830695845
+Fetched historical prices for tron: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.3260435919558967
+Fetched historical prices for avalanche-2: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 51.883254332550635
+Fetched historical prices for shiba-inu: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.073991765502321e-05
+Fetched historical prices for the-open-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 6.890060182939282
+Fetched historical prices for wrapped-steth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4621.462801542719
+Fetched historical prices for polkadot: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 10.357669394489296
+Fetched historical prices for chainlink: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 23.51112106806694
+Fetched historical prices for stellar: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 0.5222691755210024
+Fetched historical prices for wrapped-bitcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 99911.30901805303
+Fetched historical prices for bitcoin-cash: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 591.8998342452774
+Fetched historical prices for hedera-hashgraph: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.2924777440785703
+Fetched historical prices for sui: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.6940887572268166
+Fetched historical prices for weth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3870.282731481182
+Fetched historical prices for litecoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 132.1335276775536
+Fetched historical prices for uniswap: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 15.10002321537837
+Fetched historical prices for pepe: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 2.270083709424108e-05
+Fetched historical prices for near: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 7.610078253981824
+Fetched historical prices for leo-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 9.420477761790359
+Fetched historical prices for wrapped-eeth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4084.878332478628
+Fetched historical prices for aptos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 13.547776408649971
+Fetched historical prices for internet-computer: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 14.309915722165554
+Fetched historical prices for polygon-ecosystem-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.695041595368014
+Fetched historical prices for crypto-com-chain: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.20753141483027196
+Fetched historical prices for vechain: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.06710990567798167
+Fetched historical prices for ethereum-classic: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 36.497586500817434
+Fetched historical prices for usds: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.998916466283956
+Processing batch: 1
+Processing coin: bitcoin
+Profit Potential: -2021.6280234359729, Recommendation: Hold - Neutral market
+Coin: bitcoin excluded. Profit Potential: -2021.6280234359729, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethereum
+Profit Potential: -32.0104015175657, Recommendation: Hold - Neutral market
+Coin: ethereum excluded. Profit Potential: -32.0104015175657, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: tether
+Profit Potential: -0.00454696458130055, Recommendation: Hold - Neutral market
+Coin: tether excluded. Profit Potential: -0.00454696458130055, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ripple
+Profit Potential: 0.01097233628955152, Recommendation: Hold - Neutral market
+Coin: ripple excluded. Profit Potential: 0.01097233628955152, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: solana
+Profit Potential: 0.6486338955760118, Recommendation: Hold - Neutral market
+Coin: solana excluded. Profit Potential: 0.6486338955760118, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: binancecoin
+Profit Potential: -9.340617963558998, Recommendation: Hold - Neutral market
+Coin: binancecoin excluded. Profit Potential: -9.340617963558998, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: dogecoin
+Profit Potential: 0.0003524830544335278, Recommendation: Sell - Bearish trend forming
+Coin: dogecoin excluded. Profit Potential: 0.0003524830544335278, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: cardano
+Profit Potential: 0.010951783908374146, Recommendation: Hold - Neutral market
+Coin: cardano excluded. Profit Potential: 0.010951783908374146, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: usd-coin
+Profit Potential: 0.0005957155393423452, Recommendation: Hold - Neutral market
+Coin: usd-coin excluded. Profit Potential: 0.0005957155393423452, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: staked-ether
+Profit Potential: -43.405520401754075, Recommendation: Hold - Neutral market
+Coin: staked-ether excluded. Profit Potential: -43.405520401754075, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 2
+Processing coin: tron
+Profit Potential: -0.00919756473022132, Recommendation: Hold - Neutral market
+Coin: tron excluded. Profit Potential: -0.00919756473022132, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: avalanche-2
+Profit Potential: -0.3517208792403679, Recommendation: Hold - Neutral market
+Coin: avalanche-2 excluded. Profit Potential: -0.3517208792403679, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: shiba-inu
+Profit Potential: -1.1488856756449622e-06, Recommendation: Hold - Neutral market
+Coin: shiba-inu excluded. Profit Potential: -1.1488856756449622e-06, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: the-open-network
+Profit Potential: -0.03092582602670646, Recommendation: Hold - Neutral market
+Coin: the-open-network excluded. Profit Potential: -0.03092582602670646, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: wrapped-steth
+Profit Potential: -40.389966068515605, Recommendation: Hold - Neutral market
+Coin: wrapped-steth excluded. Profit Potential: -40.389966068515605, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: polkadot
+Profit Potential: -0.17381204023906882, Recommendation: Hold - Neutral market
+Coin: polkadot excluded. Profit Potential: -0.17381204023906882, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: chainlink
+Profit Potential: -0.6440998756067096, Recommendation: Hold - Neutral market
+Coin: chainlink excluded. Profit Potential: -0.6440998756067096, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: stellar
+Profit Potential: 0.02392523532290841, Recommendation: Sell - Bearish trend forming
+Coin: stellar excluded. Profit Potential: 0.02392523532290841, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: wrapped-bitcoin
+Profit Potential: -2471.851063213835, Recommendation: Hold - Neutral market
+Coin: wrapped-bitcoin excluded. Profit Potential: -2471.851063213835, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bitcoin-cash
+Profit Potential: -14.963402915504844, Recommendation: Hold - Neutral market
+Coin: bitcoin-cash excluded. Profit Potential: -14.963402915504844, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 3
+Processing coin: hedera-hashgraph
+Profit Potential: -0.008304332517683144, Recommendation: Hold - Neutral market
+Coin: hedera-hashgraph excluded. Profit Potential: -0.008304332517683144, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: sui
+Profit Potential: -0.17139914415739366, Recommendation: Hold - Neutral market
+Coin: sui excluded. Profit Potential: -0.17139914415739366, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: weth
+Profit Potential: -51.35239074987339, Recommendation: Hold - Neutral market
+Coin: weth excluded. Profit Potential: -51.35239074987339, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: litecoin
+Profit Potential: 1.2890327543703677, Recommendation: Hold - Neutral market
+Coin: litecoin excluded. Profit Potential: 1.2890327543703677, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: uniswap
+Profit Potential: -0.47108115534299166, Recommendation: Hold - Neutral market
+Coin: uniswap excluded. Profit Potential: -0.47108115534299166, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: pepe
+Profit Potential: 1.1077160694479535e-06, Recommendation: Sell - Bearish trend forming
+Coin: pepe excluded. Profit Potential: 1.1077160694479535e-06, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: near
+Profit Potential: 0.08836607460100687, Recommendation: Hold - Neutral market
+Coin: near excluded. Profit Potential: 0.08836607460100687, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: leo-token
+Profit Potential: -0.19790810101776835, Recommendation: Hold - Neutral market
+Coin: leo-token excluded. Profit Potential: -0.19790810101776835, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: wrapped-eeth
+Profit Potential: -54.01481530258843, Recommendation: Hold - Neutral market
+Coin: wrapped-eeth excluded. Profit Potential: -54.01481530258843, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: aptos
+Profit Potential: -0.27176552901750917, Recommendation: Hold - Neutral market
+Coin: aptos excluded. Profit Potential: -0.27176552901750917, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 4
+Processing coin: internet-computer
+Profit Potential: -0.2427821888214119, Recommendation: Hold - Neutral market
+Coin: internet-computer excluded. Profit Potential: -0.2427821888214119, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: polygon-ecosystem-token
+Profit Potential: -0.014501112336046229, Recommendation: Hold - Neutral market
+Coin: polygon-ecosystem-token excluded. Profit Potential: -0.014501112336046229, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: crypto-com-chain
+Profit Potential: -0.005097133494855577, Recommendation: Hold - Neutral market
+Coin: crypto-com-chain excluded. Profit Potential: -0.005097133494855577, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: vechain
+Profit Potential: -0.0032500526922332323, Recommendation: Hold - Neutral market
+Coin: vechain excluded. Profit Potential: -0.0032500526922332323, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethereum-classic
+Profit Potential: -0.925876228301199, Recommendation: Hold - Neutral market
+Coin: ethereum-classic excluded. Profit Potential: -0.925876228301199, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: usds
+Profit Potential: -0.012005695326231303, Recommendation: Hold - Neutral market
+Fetched historical prices for bittensor: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 662.3690664148019
+Fetched historical prices for ethena-usde: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.004851156979882
+Fetched historical prices for fetch-ai: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.9159246222229982
+Fetched historical prices for filecoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 7.959979938518009
+Fetched historical prices for arbitrum: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.1176192081762855
+Fetched historical prices for render-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 8.660297893614915
+Fetched historical prices for eigenlayer: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.8081929733866877
+Fetched historical prices for blockstack: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.729098019989814
+Fetched historical prices for kaspa: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.15976352846405828
+Fetched historical prices for algorand: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.49003013114533467
+Fetched historical prices for hyperliquid: 8 records retrieved.
+Fetched historical prices for mantra-dao: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 4.284896244563792
+Fetched historical prices for cosmos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 9.866985509197578
+Fetched historical prices for aave: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 251.46993705070048
+Fetched historical prices for monero: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 191.4835477370007
+Fetched historical prices for celestia: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 8.214133696680983
+Fetched historical prices for dai: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0144891441592243
+Fetched historical prices for mantle: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0171177354113758
+Fetched historical prices for immutable-x: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.1119483881009735
+Fetched historical prices for okb: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 58.75580752710143
+Fetched historical prices for fantom: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.244987031769921
+Fetched historical prices for whitebit: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 23.383376040800005
+Fetched historical prices for dogwifcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.183704998577559
+Fetched historical prices for optimism: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.599910577479131
+Fetched historical prices for bonk: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4.517728150179386e-05
+Fetched historical prices for the-graph: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.32299629904367855
+Fetched historical prices for injective-protocol: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 31.922584420642426
+Fetched historical prices for theta-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.9683011081433848
+Fetched historical prices for sei-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.6897224082464241
+Fetched historical prices for ethena: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.9220411033577006
+Fetched historical prices for ondo-finance: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.7922208334262346
+Fetched historical prices for bitget-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.8073854376474974
+Fetched historical prices for gala: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.057048952809015625
+Fetched historical prices for thorchain: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 7.1195413208230605
+Fetched historical prices for worldcoin-wld: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.4118093913779326
+Fetched historical prices for binance-peg-weth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3938.3898569941707
+Coin: usds excluded. Profit Potential: -0.012005695326231303, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bittensor
+Profit Potential: -8.074691618620363, Recommendation: Hold - Neutral market
+Coin: bittensor excluded. Profit Potential: -8.074691618620363, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethena-usde
+Profit Potential: -0.004923075367964991, Recommendation: Hold - Neutral market
+Coin: ethena-usde excluded. Profit Potential: -0.004923075367964991, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: fetch-ai
+Profit Potential: 0.059206605330477835, Recommendation: Hold - Neutral market
+Coin: fetch-ai excluded. Profit Potential: 0.059206605330477835, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: filecoin
+Profit Potential: -0.06760200987910991, Recommendation: Hold - Neutral market
+Coin: filecoin excluded. Profit Potential: -0.06760200987910991, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 5
+Processing coin: arbitrum
+Profit Potential: -0.015000629508196806, Recommendation: Hold - Neutral market
+Coin: arbitrum excluded. Profit Potential: -0.015000629508196806, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: render-token
+Profit Potential: -0.00898867086659294, Recommendation: Hold - Neutral market
+Coin: render-token excluded. Profit Potential: -0.00898867086659294, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: eigenlayer
+Profit Potential: -0.1038911754132803, Recommendation: Hold - Neutral market
+Coin: eigenlayer excluded. Profit Potential: -0.1038911754132803, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: blockstack
+Profit Potential: -0.26097739699158806, Recommendation: Hold - Neutral market
+Coin: blockstack excluded. Profit Potential: -0.26097739699158806, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kaspa
+Profit Potential: -0.0009161056996368488, Recommendation: Hold - Neutral market
+Coin: kaspa excluded. Profit Potential: -0.0009161056996368488, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: algorand
+Profit Potential: 0.007194138456936838, Recommendation: Hold - Neutral market
+Coin: algorand excluded. Profit Potential: 0.007194138456936838, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: hyperliquid
+Insufficient historical data for hyperliquid. Skipping.
+Processing coin: mantra-dao
+Profit Potential: 0.17907814241931508, Recommendation: Sell - Bearish trend forming
+Coin: mantra-dao excluded. Profit Potential: 0.17907814241931508, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: cosmos
+Profit Potential: -0.011163115994678563, Recommendation: Hold - Neutral market
+Coin: cosmos excluded. Profit Potential: -0.011163115994678563, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: aave
+Profit Potential: -2.5096578769400253, Recommendation: Hold - Neutral market
+Coin: aave excluded. Profit Potential: -2.5096578769400253, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 6
+Processing coin: monero
+Profit Potential: -7.14269459278907, Recommendation: Hold - Neutral market
+Coin: monero excluded. Profit Potential: -7.14269459278907, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: celestia
+Profit Potential: -0.06931509676575764, Recommendation: Hold - Neutral market
+Coin: celestia excluded. Profit Potential: -0.06931509676575764, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: dai
+Profit Potential: 0.0020662918421470167, Recommendation: Hold - Neutral market
+Coin: dai excluded. Profit Potential: 0.0020662918421470167, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: mantle
+Profit Potential: -0.027695924532620708, Recommendation: Hold - Neutral market
+Coin: mantle excluded. Profit Potential: -0.027695924532620708, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: immutable-x
+Profit Potential: 0.018182165462888644, Recommendation: Hold - Neutral market
+Coin: immutable-x excluded. Profit Potential: 0.018182165462888644, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: okb
+Profit Potential: 0.3434946035671942, Recommendation: Hold - Neutral market
+Coin: okb excluded. Profit Potential: 0.3434946035671942, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: fantom
+Profit Potential: 0.02094258377074487, Recommendation: Hold - Neutral market
+Coin: fantom excluded. Profit Potential: 0.02094258377074487, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: whitebit
+Profit Potential: -0.4104984410193353, Recommendation: Sell - Bearish trend forming
+Coin: whitebit excluded. Profit Potential: -0.4104984410193353, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: dogwifcoin
+Profit Potential: -0.12132573320717688, Recommendation: Hold - Neutral market
+Coin: dogwifcoin excluded. Profit Potential: -0.12132573320717688, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: optimism
+Profit Potential: 0.022298015953401862, Recommendation: Hold - Neutral market
+Coin: optimism excluded. Profit Potential: 0.022298015953401862, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 7
+Processing coin: bonk
+Profit Potential: 2.855968996028618e-06, Recommendation: Hold - Neutral market
+Coin: bonk excluded. Profit Potential: 2.855968996028618e-06, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: the-graph
+Profit Potential: -0.0024268465892815505, Recommendation: Hold - Neutral market
+Coin: the-graph excluded. Profit Potential: -0.0024268465892815505, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: injective-protocol
+Profit Potential: 0.22784064670485904, Recommendation: Hold - Neutral market
+Coin: injective-protocol excluded. Profit Potential: 0.22784064670485904, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: theta-token
+Profit Potential: -0.0051623109282790125, Recommendation: Hold - Neutral market
+Coin: theta-token excluded. Profit Potential: -0.0051623109282790125, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: sei-network
+Profit Potential: 0.004410918920336959, Recommendation: Hold - Neutral market
+Coin: sei-network excluded. Profit Potential: 0.004410918920336959, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethena
+Profit Potential: -0.0010829505538643147, Recommendation: Hold - Neutral market
+Coin: ethena excluded. Profit Potential: -0.0010829505538643147, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ondo-finance
+Profit Potential: 0.005912248297749612, Recommendation: Hold - Neutral market
+Coin: ondo-finance excluded. Profit Potential: 0.005912248297749612, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bitget-token
+Profit Potential: 0.006054723932638062, Recommendation: Hold - Neutral market
+Coin: bitget-token excluded. Profit Potential: 0.006054723932638062, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: gala
+Profit Potential: -0.0019069968305693227, Recommendation: Hold - Neutral market
+Coin: gala excluded. Profit Potential: -0.0019069968305693227, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: thorchain
+Profit Potential: -0.12602833373250455, Recommendation: Hold - Neutral market
+Coin: thorchain excluded. Profit Potential: -0.12602833373250455, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 8
+Processing coin: worldcoin-wld
+Profit Potential: 0.07684722055511228, Recommendation: Hold - Neutral market
+Coin: worldcoin-wld excluded. Profit Potential: 0.07684722055511228, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: binance-peg-weth
+Profit Potential: 25.509826772813994, Recommendation: Hold - Neutral market
+Coin: binance-peg-weth excluded. Profit Potential: 25.509826772813994, Recommendation: Hold - Neutral market, Threshold: 0.1
+Fetched historical prices for floki: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.000235713483530464
+Fetched historical prices for quant-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 140.64297781795813
+Fetched historical prices for the-sandbox: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.8462639828959414
+Fetched historical prices for coinbase-wrapped-btc: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 101858.69123269178
+Fetched historical prices for jasmycoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.042297828965036866
+Fetched historical prices for based-brett: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.207607483119423
+Fetched historical prices for eos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.357694934460775
+Fetched historical prices for maker: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2289.3200482712796
+Fetched historical prices for rocket-pool-eth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4434.433040572952
+Fetched historical prices for kaia: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.3180255102676658
+Fetched historical prices for first-digital-usd: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0072593336196867
+Fetched historical prices for lido-dao: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.0721798880622098
+Fetched historical prices for flow: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.199070168560084
+Fetched historical prices for pyth-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.5263400927492305
+Fetched historical prices for mantle-staked-ether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4124.971463764819
+Fetched historical prices for jupiter-exchange-solana: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.3054255460370057
+Fetched historical prices for beam-2: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.033375206613145386
+Fetched historical prices for arweave: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 27.388197169389052
+Fetched historical prices for tezos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.666022191676385
+Fetched historical prices for stau: 5 records retrieved.
+Fetched historical prices for flare-networks: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.03255062686311794
+Fetched historical prices for bitcoin-cash-sv: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 83.77975130025612
+Fetched historical prices for iota: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.4460181202339475
+Fetched historical prices for kelp-dao-restaked-eth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4028.4620571970636
+Fetched historical prices for virtual-protocol: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.636778673571331
+Fetched historical prices for renzo-restaked-eth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4083.923047239503
+Fetched historical prices for starknet: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.7195626610878181
+Fetched historical prices for kucoin-shares: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 13.631618714902345
+Processing coin: floki
+Profit Potential: -8.626763368017691e-07, Recommendation: Hold - Neutral market
+Coin: floki excluded. Profit Potential: -8.626763368017691e-07, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: quant-network
+Profit Potential: -8.618544265267445, Recommendation: Hold - Neutral market
+Coin: quant-network excluded. Profit Potential: -8.618544265267445, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: the-sandbox
+Profit Potential: -0.03573032118728103, Recommendation: Hold - Neutral market
+Coin: the-sandbox excluded. Profit Potential: -0.03573032118728103, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: coinbase-wrapped-btc
+Profit Potential: -673.793024050814, Recommendation: Hold - Neutral market
+Coin: coinbase-wrapped-btc excluded. Profit Potential: -673.793024050814, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: jasmycoin
+Profit Potential: -0.0006487360254334995, Recommendation: Hold - Neutral market
+Coin: jasmycoin excluded. Profit Potential: -0.0006487360254334995, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: based-brett
+Profit Potential: 0.0012255598667917644, Recommendation: Hold - Neutral market
+Coin: based-brett excluded. Profit Potential: 0.0012255598667917644, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: eos
+Profit Potential: 0.01639932817355949, Recommendation: Hold - Neutral market
+Coin: eos excluded. Profit Potential: 0.01639932817355949, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: maker
+Profit Potential: 3.371127311872897, Recommendation: Hold - Neutral market
+Coin: maker excluded. Profit Potential: 3.371127311872897, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 9
+Processing coin: rocket-pool-eth
+Profit Potential: 32.95653425992896, Recommendation: Hold - Neutral market
+Coin: rocket-pool-eth excluded. Profit Potential: 32.95653425992896, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kaia
+Profit Potential: -0.018104380657251617, Recommendation: Hold - Neutral market
+Coin: kaia excluded. Profit Potential: -0.018104380657251617, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: first-digital-usd
+Profit Potential: -0.004598580422405574, Recommendation: Hold - Neutral market
+Coin: first-digital-usd excluded. Profit Potential: -0.004598580422405574, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: lido-dao
+Profit Potential: -0.02843971545774382, Recommendation: Hold - Neutral market
+Coin: lido-dao excluded. Profit Potential: -0.02843971545774382, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: flow
+Profit Potential: -0.013714837175772043, Recommendation: Hold - Neutral market
+Coin: flow excluded. Profit Potential: -0.013714837175772043, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: pyth-network
+Profit Potential: 0.008325361275174359, Recommendation: Hold - Neutral market
+Coin: pyth-network excluded. Profit Potential: 0.008325361275174359, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: mantle-staked-ether
+Profit Potential: 0.07059214198761765, Recommendation: Hold - Neutral market
+Coin: mantle-staked-ether excluded. Profit Potential: 0.07059214198761765, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: jupiter-exchange-solana
+Profit Potential: -0.01896942196706508, Recommendation: Hold - Neutral market
+Coin: jupiter-exchange-solana excluded. Profit Potential: -0.01896942196706508, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: beam-2
+Profit Potential: -0.00032903833676082433, Recommendation: Hold - Neutral market
+Coin: beam-2 excluded. Profit Potential: -0.00032903833676082433, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: arweave
+Profit Potential: 0.5391365314513905, Recommendation: Hold - Neutral market
+Coin: arweave excluded. Profit Potential: 0.5391365314513905, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 10
+Processing coin: tezos
+Profit Potential: -0.037645952418805306, Recommendation: Hold - Neutral market
+Coin: tezos excluded. Profit Potential: -0.037645952418805306, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: stau
+Insufficient historical data for stau. Skipping.
+Processing coin: flare-networks
+Profit Potential: -6.395931474231092e-05, Recommendation: Hold - Neutral market
+Coin: flare-networks excluded. Profit Potential: -6.395931474231092e-05, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bitcoin-cash-sv
+Profit Potential: -2.2369654975015436, Recommendation: Hold - Neutral market
+Coin: bitcoin-cash-sv excluded. Profit Potential: -2.2369654975015436, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: iota
+Profit Potential: -0.026559816279226878, Recommendation: Hold - Neutral market
+Coin: iota excluded. Profit Potential: -0.026559816279226878, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kelp-dao-restaked-eth
+Profit Potential: -64.1336120019414, Recommendation: Hold - Neutral market
+Coin: kelp-dao-restaked-eth excluded. Profit Potential: -64.1336120019414, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: virtual-protocol
+Profit Potential: -0.019601720818691826, Recommendation: Hold - Neutral market
+Coin: virtual-protocol excluded. Profit Potential: -0.019601720818691826, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: renzo-restaked-eth
+Profit Potential: 28.3713987789979, Recommendation: Hold - Neutral market
+Coin: renzo-restaked-eth excluded. Profit Potential: 28.3713987789979, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: starknet
+Profit Potential: 0.001653381436581225, Recommendation: Hold - Neutral market
+Coin: starknet excluded. Profit Potential: 0.001653381436581225, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kucoin-shares
+Profit Potential: 0.08875479976620149, Recommendation: Hold - Neutral market
+Coin: kucoin-shares excluded. Profit Potential: 0.08875479976620149, Recommendation: Hold - Neutral market, Threshold: 0.1
+Generated 0 profitable and safe coin recommendations.
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Fetched historical prices for ripple: 31 records retrieved.
+Predicted price: 2.3980082267023155
+Fetched historical prices for bitcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 101306.11205803929
+Fetched historical prices for ethereum: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3892.589362521242
+Fetched historical prices for tether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0028583510057474
+Fetched historical prices for ripple: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.3943630984803677
+Fetched historical prices for solana: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 237.18143299653485
+Fetched historical prices for binancecoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 724.2433970691718
+Fetched historical prices for dogecoin: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 0.4372696764990769
+Fetched historical prices for cardano: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.2061580652008006
+Fetched historical prices for usd-coin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0106751509922476
+Fetched historical prices for staked-ether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3895.4407830695845
+Fetched historical prices for tron: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.32501972787086214
+Fetched historical prices for avalanche-2: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 51.883254332550635
+Fetched historical prices for shiba-inu: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.073991765502321e-05
+Fetched historical prices for the-open-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 6.890060182939282
+Fetched historical prices for wrapped-steth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4621.462801542719
+Fetched historical prices for polkadot: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 10.357669394489296
+Fetched historical prices for chainlink: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 23.918969604946476
+Fetched historical prices for stellar: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 0.5222691755210024
+Fetched historical prices for wrapped-bitcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 99911.30901805303
+Fetched historical prices for bitcoin-cash: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 595.2761243264015
+Fetched historical prices for hedera-hashgraph: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.2924777440785703
+Fetched historical prices for sui: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.6940887572268166
+Fetched historical prices for weth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3904.3360448952444
+Fetched historical prices for litecoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 132.1335276775536
+Fetched historical prices for uniswap: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 15.08255996073256
+Fetched historical prices for pepe: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 2.270083709424108e-05
+Fetched historical prices for near: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 7.610078253981824
+Fetched historical prices for leo-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 9.420477761790359
+Fetched historical prices for wrapped-eeth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4089.722344664023
+Fetched historical prices for aptos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 13.547776408649971
+Fetched historical prices for internet-computer: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 14.310230615469262
+Fetched historical prices for polygon-ecosystem-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.695041595368014
+Fetched historical prices for crypto-com-chain: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.20753141483027196
+Fetched historical prices for vechain: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.06710990567798167
+Fetched historical prices for ethereum-classic: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 36.497586500817434
+Fetched historical prices for usds: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.9932879810192933
+Processing batch: 1
+Processing coin: bitcoin
+Profit Potential: -2021.6280234359729, Recommendation: Hold - Neutral market
+Coin: bitcoin excluded. Profit Potential: -2021.6280234359729, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethereum
+Profit Potential: -32.0104015175657, Recommendation: Hold - Neutral market
+Coin: ethereum excluded. Profit Potential: -32.0104015175657, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: tether
+Profit Potential: -0.00454696458130055, Recommendation: Hold - Neutral market
+Coin: tether excluded. Profit Potential: -0.00454696458130055, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ripple
+Profit Potential: 0.01097233628955152, Recommendation: Hold - Neutral market
+Coin: ripple excluded. Profit Potential: 0.01097233628955152, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: solana
+Profit Potential: 0.6486338955760118, Recommendation: Hold - Neutral market
+Coin: solana excluded. Profit Potential: 0.6486338955760118, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: binancecoin
+Profit Potential: -9.340617963558998, Recommendation: Hold - Neutral market
+Coin: binancecoin excluded. Profit Potential: -9.340617963558998, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: dogecoin
+Profit Potential: 0.0003524830544335278, Recommendation: Sell - Bearish trend forming
+Coin: dogecoin excluded. Profit Potential: 0.0003524830544335278, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: cardano
+Profit Potential: 0.010951783908374146, Recommendation: Hold - Neutral market
+Coin: cardano excluded. Profit Potential: 0.010951783908374146, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: usd-coin
+Profit Potential: 0.0005957155393423452, Recommendation: Hold - Neutral market
+Coin: usd-coin excluded. Profit Potential: 0.0005957155393423452, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: staked-ether
+Profit Potential: -43.405520401754075, Recommendation: Hold - Neutral market
+Coin: staked-ether excluded. Profit Potential: -43.405520401754075, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 2
+Processing coin: tron
+Profit Potential: -0.010221428815255895, Recommendation: Hold - Neutral market
+Coin: tron excluded. Profit Potential: -0.010221428815255895, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: avalanche-2
+Profit Potential: -0.3517208792403679, Recommendation: Hold - Neutral market
+Coin: avalanche-2 excluded. Profit Potential: -0.3517208792403679, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: shiba-inu
+Profit Potential: -1.1488856756449622e-06, Recommendation: Hold - Neutral market
+Coin: shiba-inu excluded. Profit Potential: -1.1488856756449622e-06, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: the-open-network
+Profit Potential: -0.03092582602670646, Recommendation: Hold - Neutral market
+Coin: the-open-network excluded. Profit Potential: -0.03092582602670646, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: wrapped-steth
+Profit Potential: -40.389966068515605, Recommendation: Hold - Neutral market
+Coin: wrapped-steth excluded. Profit Potential: -40.389966068515605, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: polkadot
+Profit Potential: -0.17381204023906882, Recommendation: Hold - Neutral market
+Coin: polkadot excluded. Profit Potential: -0.17381204023906882, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: chainlink
+Profit Potential: -0.2362513387271754, Recommendation: Hold - Neutral market
+Coin: chainlink excluded. Profit Potential: -0.2362513387271754, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: stellar
+Profit Potential: 0.02392523532290841, Recommendation: Sell - Bearish trend forming
+Coin: stellar excluded. Profit Potential: 0.02392523532290841, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: wrapped-bitcoin
+Profit Potential: -2471.851063213835, Recommendation: Hold - Neutral market
+Coin: wrapped-bitcoin excluded. Profit Potential: -2471.851063213835, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bitcoin-cash
+Profit Potential: -11.587112834380719, Recommendation: Hold - Neutral market
+Coin: bitcoin-cash excluded. Profit Potential: -11.587112834380719, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 3
+Processing coin: hedera-hashgraph
+Profit Potential: -0.008304332517683144, Recommendation: Hold - Neutral market
+Coin: hedera-hashgraph excluded. Profit Potential: -0.008304332517683144, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: sui
+Profit Potential: -0.17139914415739366, Recommendation: Hold - Neutral market
+Coin: sui excluded. Profit Potential: -0.17139914415739366, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: weth
+Profit Potential: -17.299077335811035, Recommendation: Hold - Neutral market
+Coin: weth excluded. Profit Potential: -17.299077335811035, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: litecoin
+Profit Potential: 1.2890327543703677, Recommendation: Hold - Neutral market
+Coin: litecoin excluded. Profit Potential: 1.2890327543703677, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: uniswap
+Profit Potential: -0.4885444099888012, Recommendation: Hold - Neutral market
+Coin: uniswap excluded. Profit Potential: -0.4885444099888012, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: pepe
+Profit Potential: 1.1077160694479535e-06, Recommendation: Sell - Bearish trend forming
+Coin: pepe excluded. Profit Potential: 1.1077160694479535e-06, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: near
+Profit Potential: 0.08836607460100687, Recommendation: Hold - Neutral market
+Coin: near excluded. Profit Potential: 0.08836607460100687, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: leo-token
+Profit Potential: -0.19790810101776835, Recommendation: Hold - Neutral market
+Coin: leo-token excluded. Profit Potential: -0.19790810101776835, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: wrapped-eeth
+Profit Potential: -49.17080311719383, Recommendation: Hold - Neutral market
+Coin: wrapped-eeth excluded. Profit Potential: -49.17080311719383, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: aptos
+Profit Potential: -0.27176552901750917, Recommendation: Hold - Neutral market
+Coin: aptos excluded. Profit Potential: -0.27176552901750917, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 4
+Processing coin: internet-computer
+Profit Potential: -0.24246729551770407, Recommendation: Hold - Neutral market
+Coin: internet-computer excluded. Profit Potential: -0.24246729551770407, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: polygon-ecosystem-token
+Profit Potential: -0.014501112336046229, Recommendation: Hold - Neutral market
+Coin: polygon-ecosystem-token excluded. Profit Potential: -0.014501112336046229, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: crypto-com-chain
+Profit Potential: -0.005097133494855577, Recommendation: Hold - Neutral market
+Coin: crypto-com-chain excluded. Profit Potential: -0.005097133494855577, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: vechain
+Profit Potential: -0.0032500526922332323, Recommendation: Hold - Neutral market
+Coin: vechain excluded. Profit Potential: -0.0032500526922332323, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethereum-classic
+Profit Potential: -0.925876228301199, Recommendation: Hold - Neutral market
+Coin: ethereum-classic excluded. Profit Potential: -0.925876228301199, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: usds
+Profit Potential: -0.017634180590894055, Recommendation: Hold - Neutral market
+Fetched historical prices for bittensor: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 662.3690664148019
+Fetched historical prices for ethena-usde: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.9988742003329596
+Fetched historical prices for fetch-ai: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.9254606752646897
+Fetched historical prices for filecoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 8.021087450155202
+Fetched historical prices for arbitrum: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.126710162736454
+Fetched historical prices for render-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 8.660297893614915
+Fetched historical prices for eigenlayer: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.8081929733866877
+Fetched historical prices for blockstack: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.729098019989814
+Fetched historical prices for kaspa: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.15976352846405828
+Fetched historical prices for algorand: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.49003013114533467
+Fetched historical prices for hyperliquid: 8 records retrieved.
+Fetched historical prices for mantra-dao: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 4.284896244563792
+Fetched historical prices for cosmos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 9.866985509197578
+Fetched historical prices for aave: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 251.46993705070048
+Fetched historical prices for monero: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 197.24505784448394
+Fetched historical prices for celestia: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 8.214133696680983
+Fetched historical prices for dai: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0144891441592243
+Fetched historical prices for mantle: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0171177354113758
+Fetched historical prices for immutable-x: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.1119483881009735
+Fetched historical prices for okb: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 58.75580752710143
+Fetched historical prices for fantom: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.244987031769921
+Fetched historical prices for whitebit: 31 records retrieved.
+Recommendation based on latest data: Sell - Bearish trend forming
+Predicted price: 23.346583425576437
+Fetched historical prices for dogwifcoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.183704998577559
+Fetched historical prices for optimism: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.6182975060913276
+Fetched historical prices for bonk: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4.517728150179386e-05
+Fetched historical prices for the-graph: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.32299629904367855
+Fetched historical prices for injective-protocol: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 31.922584420642426
+Fetched historical prices for theta-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.9683011081433848
+Fetched historical prices for sei-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.6897224082464241
+Fetched historical prices for ethena: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.9220411033577006
+Fetched historical prices for ondo-finance: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.7922208334262346
+Fetched historical prices for bitget-token: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.8073854376474974
+Fetched historical prices for gala: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.056928233195879564
+Fetched historical prices for thorchain: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 7.1195413208230605
+Fetched historical prices for worldcoin-wld: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3.4118093913779326
+Fetched historical prices for binance-peg-weth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 3938.3898569941707
+Coin: usds excluded. Profit Potential: -0.017634180590894055, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bittensor
+Profit Potential: -8.074691618620363, Recommendation: Hold - Neutral market
+Coin: bittensor excluded. Profit Potential: -8.074691618620363, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethena-usde
+Profit Potential: -0.010900032014887318, Recommendation: Hold - Neutral market
+Coin: ethena-usde excluded. Profit Potential: -0.010900032014887318, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: fetch-ai
+Profit Potential: 0.06874265837216931, Recommendation: Hold - Neutral market
+Coin: fetch-ai excluded. Profit Potential: 0.06874265837216931, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: filecoin
+Profit Potential: -0.006494498241917057, Recommendation: Hold - Neutral market
+Coin: filecoin excluded. Profit Potential: -0.006494498241917057, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 5
+Processing coin: arbitrum
+Profit Potential: -0.005909674948028298, Recommendation: Hold - Neutral market
+Coin: arbitrum excluded. Profit Potential: -0.005909674948028298, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: render-token
+Profit Potential: -0.00898867086659294, Recommendation: Hold - Neutral market
+Coin: render-token excluded. Profit Potential: -0.00898867086659294, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: eigenlayer
+Profit Potential: -0.1038911754132803, Recommendation: Hold - Neutral market
+Coin: eigenlayer excluded. Profit Potential: -0.1038911754132803, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: blockstack
+Profit Potential: -0.26097739699158806, Recommendation: Hold - Neutral market
+Coin: blockstack excluded. Profit Potential: -0.26097739699158806, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kaspa
+Profit Potential: -0.0009161056996368488, Recommendation: Hold - Neutral market
+Coin: kaspa excluded. Profit Potential: -0.0009161056996368488, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: algorand
+Profit Potential: 0.007194138456936838, Recommendation: Hold - Neutral market
+Coin: algorand excluded. Profit Potential: 0.007194138456936838, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: hyperliquid
+Insufficient historical data for hyperliquid. Skipping.
+Processing coin: mantra-dao
+Profit Potential: 0.17907814241931508, Recommendation: Sell - Bearish trend forming
+Coin: mantra-dao excluded. Profit Potential: 0.17907814241931508, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: cosmos
+Profit Potential: -0.011163115994678563, Recommendation: Hold - Neutral market
+Coin: cosmos excluded. Profit Potential: -0.011163115994678563, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: aave
+Profit Potential: -2.5096578769400253, Recommendation: Hold - Neutral market
+Coin: aave excluded. Profit Potential: -2.5096578769400253, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 6
+Processing coin: monero
+Profit Potential: -1.3811844853058233, Recommendation: Hold - Neutral market
+Coin: monero excluded. Profit Potential: -1.3811844853058233, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: celestia
+Profit Potential: -0.06931509676575764, Recommendation: Hold - Neutral market
+Coin: celestia excluded. Profit Potential: -0.06931509676575764, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: dai
+Profit Potential: 0.0020662918421470167, Recommendation: Hold - Neutral market
+Coin: dai excluded. Profit Potential: 0.0020662918421470167, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: mantle
+Profit Potential: -0.027695924532620708, Recommendation: Hold - Neutral market
+Coin: mantle excluded. Profit Potential: -0.027695924532620708, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: immutable-x
+Profit Potential: 0.018182165462888644, Recommendation: Hold - Neutral market
+Coin: immutable-x excluded. Profit Potential: 0.018182165462888644, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: okb
+Profit Potential: 0.3434946035671942, Recommendation: Hold - Neutral market
+Coin: okb excluded. Profit Potential: 0.3434946035671942, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: fantom
+Profit Potential: 0.02094258377074487, Recommendation: Hold - Neutral market
+Coin: fantom excluded. Profit Potential: 0.02094258377074487, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: whitebit
+Profit Potential: -0.44729105624290355, Recommendation: Sell - Bearish trend forming
+Coin: whitebit excluded. Profit Potential: -0.44729105624290355, Recommendation: Sell - Bearish trend forming, Threshold: 0.1
+Processing coin: dogwifcoin
+Profit Potential: -0.12132573320717688, Recommendation: Hold - Neutral market
+Coin: dogwifcoin excluded. Profit Potential: -0.12132573320717688, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: optimism
+Profit Potential: 0.04068494456559835, Recommendation: Hold - Neutral market
+Coin: optimism excluded. Profit Potential: 0.04068494456559835, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 7
+Processing coin: bonk
+Profit Potential: 2.855968996028618e-06, Recommendation: Hold - Neutral market
+Coin: bonk excluded. Profit Potential: 2.855968996028618e-06, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: the-graph
+Profit Potential: -0.0024268465892815505, Recommendation: Hold - Neutral market
+Coin: the-graph excluded. Profit Potential: -0.0024268465892815505, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: injective-protocol
+Profit Potential: 0.22784064670485904, Recommendation: Hold - Neutral market
+Coin: injective-protocol excluded. Profit Potential: 0.22784064670485904, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: theta-token
+Profit Potential: -0.0051623109282790125, Recommendation: Hold - Neutral market
+Coin: theta-token excluded. Profit Potential: -0.0051623109282790125, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: sei-network
+Profit Potential: 0.004410918920336959, Recommendation: Hold - Neutral market
+Coin: sei-network excluded. Profit Potential: 0.004410918920336959, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ethena
+Profit Potential: -0.0010829505538643147, Recommendation: Hold - Neutral market
+Coin: ethena excluded. Profit Potential: -0.0010829505538643147, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: ondo-finance
+Profit Potential: 0.005912248297749612, Recommendation: Hold - Neutral market
+Coin: ondo-finance excluded. Profit Potential: 0.005912248297749612, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bitget-token
+Profit Potential: 0.006054723932638062, Recommendation: Hold - Neutral market
+Coin: bitget-token excluded. Profit Potential: 0.006054723932638062, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: gala
+Profit Potential: -0.002027716443705384, Recommendation: Hold - Neutral market
+Coin: gala excluded. Profit Potential: -0.002027716443705384, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: thorchain
+Profit Potential: -0.12602833373250455, Recommendation: Hold - Neutral market
+Coin: thorchain excluded. Profit Potential: -0.12602833373250455, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 8
+Processing coin: worldcoin-wld
+Profit Potential: 0.07684722055511228, Recommendation: Hold - Neutral market
+Coin: worldcoin-wld excluded. Profit Potential: 0.07684722055511228, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: binance-peg-weth
+Profit Potential: 25.509826772813994, Recommendation: Hold - Neutral market
+Coin: binance-peg-weth excluded. Profit Potential: 25.509826772813994, Recommendation: Hold - Neutral market, Threshold: 0.1
+Fetched historical prices for floki: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.000235713483530464
+Fetched historical prices for quant-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 140.64297781795813
+Fetched historical prices for the-sandbox: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.8462639828959414
+Fetched historical prices for coinbase-wrapped-btc: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 101858.69123269178
+Fetched historical prices for jasmycoin: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.042297828965036866
+Fetched historical prices for based-brett: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.207607483119423
+Fetched historical prices for eos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.357694934460775
+Fetched historical prices for maker: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2289.3200482712796
+Fetched historical prices for rocket-pool-eth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4434.433040572952
+Fetched historical prices for kaia: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.3180255102676658
+Fetched historical prices for first-digital-usd: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.0072593336196867
+Fetched historical prices for lido-dao: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 2.0721798880622098
+Fetched historical prices for flow: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.199070168560084
+Fetched historical prices for pyth-network: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.5263400927492305
+Fetched historical prices for mantle-staked-ether: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4124.971463764819
+Fetched historical prices for jupiter-exchange-solana: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.3054255460370057
+Fetched historical prices for beam-2: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.033375206613145386
+Fetched historical prices for arweave: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 27.388197169389052
+Fetched historical prices for tezos: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.666022191676385
+Fetched historical prices for stau: 5 records retrieved.
+Fetched historical prices for flare-networks: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.03255062686311794
+Fetched historical prices for bitcoin-cash-sv: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 83.77975130025612
+Fetched historical prices for iota: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.4492555714655713
+Fetched historical prices for kelp-dao-restaked-eth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4118.047041771189
+Fetched historical prices for virtual-protocol: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 1.636778673571331
+Fetched historical prices for renzo-restaked-eth: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 4083.923047239503
+Fetched historical prices for starknet: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 0.7195626610878181
+Fetched historical prices for kucoin-shares: 31 records retrieved.
+Recommendation based on latest data: Hold - Neutral market
+Predicted price: 13.631618714902345
+Processing coin: floki
+Profit Potential: -8.626763368017691e-07, Recommendation: Hold - Neutral market
+Coin: floki excluded. Profit Potential: -8.626763368017691e-07, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: quant-network
+Profit Potential: -8.618544265267445, Recommendation: Hold - Neutral market
+Coin: quant-network excluded. Profit Potential: -8.618544265267445, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: the-sandbox
+Profit Potential: -0.03573032118728103, Recommendation: Hold - Neutral market
+Coin: the-sandbox excluded. Profit Potential: -0.03573032118728103, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: coinbase-wrapped-btc
+Profit Potential: -673.793024050814, Recommendation: Hold - Neutral market
+Coin: coinbase-wrapped-btc excluded. Profit Potential: -673.793024050814, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: jasmycoin
+Profit Potential: -0.0006487360254334995, Recommendation: Hold - Neutral market
+Coin: jasmycoin excluded. Profit Potential: -0.0006487360254334995, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: based-brett
+Profit Potential: 0.0012255598667917644, Recommendation: Hold - Neutral market
+Coin: based-brett excluded. Profit Potential: 0.0012255598667917644, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: eos
+Profit Potential: 0.01639932817355949, Recommendation: Hold - Neutral market
+Coin: eos excluded. Profit Potential: 0.01639932817355949, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: maker
+Profit Potential: 3.371127311872897, Recommendation: Hold - Neutral market
+Coin: maker excluded. Profit Potential: 3.371127311872897, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 9
+Processing coin: rocket-pool-eth
+Profit Potential: 32.95653425992896, Recommendation: Hold - Neutral market
+Coin: rocket-pool-eth excluded. Profit Potential: 32.95653425992896, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kaia
+Profit Potential: -0.018104380657251617, Recommendation: Hold - Neutral market
+Coin: kaia excluded. Profit Potential: -0.018104380657251617, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: first-digital-usd
+Profit Potential: -0.004598580422405574, Recommendation: Hold - Neutral market
+Coin: first-digital-usd excluded. Profit Potential: -0.004598580422405574, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: lido-dao
+Profit Potential: -0.02843971545774382, Recommendation: Hold - Neutral market
+Coin: lido-dao excluded. Profit Potential: -0.02843971545774382, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: flow
+Profit Potential: -0.013714837175772043, Recommendation: Hold - Neutral market
+Coin: flow excluded. Profit Potential: -0.013714837175772043, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: pyth-network
+Profit Potential: 0.008325361275174359, Recommendation: Hold - Neutral market
+Coin: pyth-network excluded. Profit Potential: 0.008325361275174359, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: mantle-staked-ether
+Profit Potential: 0.07059214198761765, Recommendation: Hold - Neutral market
+Coin: mantle-staked-ether excluded. Profit Potential: 0.07059214198761765, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: jupiter-exchange-solana
+Profit Potential: -0.01896942196706508, Recommendation: Hold - Neutral market
+Coin: jupiter-exchange-solana excluded. Profit Potential: -0.01896942196706508, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: beam-2
+Profit Potential: -0.00032903833676082433, Recommendation: Hold - Neutral market
+Coin: beam-2 excluded. Profit Potential: -0.00032903833676082433, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: arweave
+Profit Potential: 0.5391365314513905, Recommendation: Hold - Neutral market
+Coin: arweave excluded. Profit Potential: 0.5391365314513905, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing batch: 10
+Processing coin: tezos
+Profit Potential: -0.037645952418805306, Recommendation: Hold - Neutral market
+Coin: tezos excluded. Profit Potential: -0.037645952418805306, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: stau
+Insufficient historical data for stau. Skipping.
+Processing coin: flare-networks
+Profit Potential: -6.395931474231092e-05, Recommendation: Hold - Neutral market
+Coin: flare-networks excluded. Profit Potential: -6.395931474231092e-05, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: bitcoin-cash-sv
+Profit Potential: -2.2369654975015436, Recommendation: Hold - Neutral market
+Coin: bitcoin-cash-sv excluded. Profit Potential: -2.2369654975015436, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: iota
+Profit Potential: -0.023322365047603044, Recommendation: Hold - Neutral market
+Coin: iota excluded. Profit Potential: -0.023322365047603044, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kelp-dao-restaked-eth
+Profit Potential: 25.451372572183573, Recommendation: Hold - Neutral market
+Coin: kelp-dao-restaked-eth excluded. Profit Potential: 25.451372572183573, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: virtual-protocol
+Profit Potential: -0.019601720818691826, Recommendation: Hold - Neutral market
+Coin: virtual-protocol excluded. Profit Potential: -0.019601720818691826, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: renzo-restaked-eth
+Profit Potential: 28.3713987789979, Recommendation: Hold - Neutral market
+Coin: renzo-restaked-eth excluded. Profit Potential: 28.3713987789979, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: starknet
+Profit Potential: 0.001653381436581225, Recommendation: Hold - Neutral market
+Coin: starknet excluded. Profit Potential: 0.001653381436581225, Recommendation: Hold - Neutral market, Threshold: 0.1
+Processing coin: kucoin-shares
+Profit Potential: 0.08875479976620149, Recommendation: Hold - Neutral market
+Coin: kucoin-shares excluded. Profit Potential: 0.08875479976620149, Recommendation: Hold - Neutral market, Threshold: 0.1
+Generated 0 profitable and safe coin recommendations.
+______Beginning Crypto Summary Generation______
+
+===== Daily Crypto Summary =====
+
+
+===== Top Gainers (24h) =====
+blockstack - $2.990075416981402 | +15.15%
+gala - $0.05895594963958495 | +14.88%
+the-sandbox - $0.8819943040832224 | +14.70%
+ethena - $0.9231240539115649 | +14.15%
+bitcoin-cash-sv - $86.01671679775767 | +13.17%
+
+===== Top Losers (24h): =====
+iota - $0.47257793651317437 | -16.71%
+tron - $0.33524115668611804 | -11.52%
+eos - $1.3412956062872154 | -10.01%
+virtual-protocol - $1.6563803943900228 | -8.92%
+algorand - $0.48283599268839783 | -8.67%
+
+===== Trending Coins: =====
+Sui (SUI) - Market Cap Rank: 22
+Bitcoin (BTC) - Market Cap Rank: 1
+Mode (MODE) - Market Cap Rank: 558
+XRP (XRP) - Market Cap Rank: 4
+Hyperliquid (HYPE) - Market Cap Rank: 50
+Gigachad (GIGA) - Market Cap Rank: 238
+Ondo (ONDO) - Market Cap Rank: 67
+Solana (SOL) - Market Cap Rank: 5
+Virtuals Protocol (VIRTUAL) - Market Cap Rank: 97
+Pepe (PEPE) - Market Cap Rank: 27
+Hedera (HBAR) - Market Cap Rank: 21
+Dogecoin (DOGE) - Market Cap Rank: 7
+Ethereum (ETH) - Market Cap Rank: 2
+Grass (GRASS) - Market Cap Rank: 172
+Ethena (ENA) - Market Cap Rank: 65
+
+===== Portfolio Report =====
+
+Portfolio Value: $260.60
+Total Profit: $110.90
+
+
+Earnings by Coin:
+Ripple: Current Price: $2.37, Value: $260.60, Investment: $149.70, Profit: $110.90
+
+Recommendations:
+Ripple: Hold - Neutral market
+
+Predictions:
+Ripple: Predicted Price $2.3980082267023155
+
+===== Profitable Coins Suggestions =====
+No profitable and safe coins found.
+
+===== Top Crypto News =====
+Bitcoin Officially Hits $100,000 For The First Time Ever - https://cryptopanic.com/news/20366624/Bitcoin-Officially-Hits-100000-For-The-First-Time-Ever
+Michael Saylor gives a #Bitcoin masterclass on Fox Business. 
+
+The mainstream is coming… - https://cryptopanic.com/news/20366028/Michael-Saylor-gives-a-Bitcoin-masterclass-on-Fox-Business-The-mainstream-is-coming
+Fed Chair Powell says bitcoin is like digital gold - https://cryptopanic.com/news/20365800/Fed-Chair-Powell-says-bitcoin-is-like-digital-gold
+Cardano introduces plan 529 ahead of Plomin hard fork upgrade - https://cryptopanic.com/news/20365793/Cardano-introduces-plan-529-ahead-of-Plomin-hard-fork-upgrade
+Fed Chair Powell calls Bitcoin a competitor to gold, not the US dollar - https://cryptopanic.com/news/20365722/Fed-Chair-Powell-calls-Bitcoin-a-competitor-to-gold-not-the-US-dollar
+Cardano: Blockchain for a Decentralised and Inclusive Future - https://cryptopanic.com/news/20365577/Cardano-Blockchain-for-a-Decentralised-and-Inclusive-Future
+'Who's Laughing Now?' NYC Mayor Eric Adams Boasts About Bitcoin Paychecks - https://cryptopanic.com/news/20365482/Whos-Laughing-Now-NYC-Mayor-Eric-Adams-Boasts-About-Bitcoin-Paychecks
+Ethereum (ETH) Breaks the $3,800 Price Level - https://cryptopanic.com/news/20364682/Ethereum-ETH-Breaks-the-3800-Price-Level
+JUST IN: 🇷🇺 President Putin says, “#Bitcoin, Digital Assets will continue to develop.” - https://cryptopanic.com/news/20364368/JUST-IN-President-Putin-says-Bitcoin-Digital-Assets-will-continue-to-develop
+Ripple’s RLUSD Stablecoin Set to Launch Today, What’s Next for XRP? - https://cryptopanic.com/news/20364246/Ripples-RLUSD-Stablecoin-Set-to-Launch-Today-Whats-Next-for-XRP
